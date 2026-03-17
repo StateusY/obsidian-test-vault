@@ -32,7 +32,7 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
   # Custom color settings
-  custom_dir: .overrides
+  # custom_dir: .overrides
 
 nav:
  # this will generate the nav dynamically

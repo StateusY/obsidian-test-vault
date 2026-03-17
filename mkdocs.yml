@@ -42,8 +42,8 @@ nav:
 markdown_extensions:
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: dan1229
-      repo: obsidian-dans-notes
+      user: stateusY
+      repo: obsidian-test-vault
       normalize_issue_symbols: true
   - pymdownx.superfences
   - pymdownx.tasklist:
